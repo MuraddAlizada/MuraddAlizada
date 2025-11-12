@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  <span style="color:#A0AEC0;">Frontend Developer · React ⚛️ · Next.js · TypeScript · Tailwind</span>
+  <span style="color:#A0AEC0;">Frontend Developer · React  · Next.js · TypeScript · Tailwind</span>
 </h3>
 
 ---
@@ -63,12 +63,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Insights</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuraddAlizada&show_icons=true&layout=compact&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuraddAlizada&theme=react" />
-</p>
 
 ---
 
